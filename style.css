@@ -1,0 +1,137 @@
+.nav-logo{
+    height: 200px;
+    padding-top: 20px;
+}
+
+.home-body{
+    background-color:rgb(73, 63, 63)
+}
+
+.nav-item{
+    font-size: 30px;
+}
+
+.item-nav{
+    color: white;
+}
+.item-nav:hover{
+    color: rgb(150, 150, 189);
+}
+
+.anchor{
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+.home-message{
+    height: 85vh;
+    justify-content:center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.box-left{
+    height: 50px;
+    color: beige;
+    text-align: right;
+    padding: left;
+}
+
+.image{
+    height: 380px;
+    width: 325px;
+}
+
+.box-right{
+    padding-left: ;
+
+}
+
+.para{
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.about-color{
+    color: beige;
+    text-align: center;
+}
+.About{
+    display: flex;
+    justify-content: center;
+}
+
+.para{
+    color: beige;
+}
+.list-color{
+    color: beige;
+    font-size: large;
+}
+.SI{
+    inline-size: 500px;
+    font-size: 40px;
+    padding-top: 40px;
+    text-align: start;
+}
+
+.dsa-para{
+    color: beige;
+    text-align:left;
+    font-size: 25px;
+}
+.access-link{
+    color: beige;
+    font-size: 25px;
+
+}
+
+.left-card{
+    background-color: transparent;
+    border: 2px beige solid;
+    padding-top: 20px;
+}
+
+.SI:hover{
+    color:blue;
+}
+.ibm{
+    color: beige;
+    text-align:left;
+    font-size: 40px; 
+    padding-top: 60px;
+}
+
+.dsa-paras{
+    color: beige;
+    text-align:left;
+    font-size: 25px;
+}
+.dsa{
+    color: beige;
+}    
+
+.left-card:hover{
+    color: bisque;
+    
+
+}
+
+.class-color{
+    color: beige;
+    text-align: center;
+}
+
+.mail{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+}
+
+.social-icon-img{
+    height: 50px;
+}    
+.social{
+    text-align: center;
+}
